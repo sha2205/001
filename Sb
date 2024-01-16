@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landing Page Title</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            padding: 80px;
+        }
+
+        section {
+            text-align: center;
+            margin: 50px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Your Landing Page</h1>
+        <p>This is a special place just for you!</p>
+    </header>
+
+    <section>
+        <h2>About</h2>
+        <p>This is a simple landing page created with HTML.</p>
+    </section>
+
+    <section>
+        <h2>Message</h2>
+        <p>Thank you for being amazing!</p>
+    </section>
+
+    <footer>
+        <p>Created with ❤️ by Your Name</p>
+    </footer>
+
+</body>
+</html>
